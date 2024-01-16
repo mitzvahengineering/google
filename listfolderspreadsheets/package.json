@@ -1,0 +1,22 @@
+{
+  "name": "listfolderspreadsheets",
+  "version": "1.0.0",
+  "description": "list the spreadsheets in a folder identified by the id specified",
+  "main": "listfolderspreadsheets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munair/google/listfolderspreadsheets.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "munair",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "google-auth-library": "^9.4.2",
+    "googleapis": "^130.0.0"
+  }
+}
