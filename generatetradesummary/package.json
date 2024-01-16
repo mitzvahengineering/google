@@ -1,0 +1,22 @@
+{
+  "name": "generatetradesummary",
+  "version": "1.0.0",
+  "description": "generate a summary of the trades in the worksheets found in the spreadsheets within the folder identified by the id specified",
+  "main": "generatetradesummary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munair/google/generatetradesummary.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "munair",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "google-auth-library": "^9.4.2",
+    "googleapis": "^130.0.0"
+  }
+}
