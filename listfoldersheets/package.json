@@ -1,0 +1,22 @@
+{
+  "name": "listfoldersheets",
+  "version": "1.0.0",
+  "description": "list all of the worksheets in the spreadsheets within the folder identified by the id specified",
+  "main": "listfoldersheets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munair/google/listfoldersheets.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "munair",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "google-auth-library": "^9.4.2",
+    "googleapis": "^130.0.0"
+  }
+}
